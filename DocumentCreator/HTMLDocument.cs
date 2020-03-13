@@ -7,7 +7,7 @@ namespace DocumentCreator
     class HTMLDocument
     {
         // the title of the document
-        private string title = "";
+        private string title = "A simple document";
 
         // the elements making up the body of the document
        

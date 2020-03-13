@@ -1,9 +1,4 @@
-﻿//
-// Test program for the Couple class.
-//
-// Author: Dr. Nicholas Sheppard
-//
-
+﻿
 using System;
 
 namespace Couple

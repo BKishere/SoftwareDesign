@@ -6,7 +6,6 @@ namespace FactoryExampleApp
     {
         static void Main(string[] args)
         {
-            
             Console.WriteLine("Enter a budget");
             int budget = Convert.ToInt32(Console.ReadLine());             
             

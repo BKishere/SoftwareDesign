@@ -1,0 +1,11 @@
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\bin\Debug\netcoreapp3.1\ShopLab.exe
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\bin\Debug\netcoreapp3.1\ShopLab.deps.json
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\bin\Debug\netcoreapp3.1\ShopLab.runtimeconfig.json
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\bin\Debug\netcoreapp3.1\ShopLab.runtimeconfig.dev.json
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\bin\Debug\netcoreapp3.1\ShopLab.dll
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\bin\Debug\netcoreapp3.1\ShopLab.pdb
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\obj\Debug\netcoreapp3.1\ShopLab.csprojAssemblyReference.cache
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\obj\Debug\netcoreapp3.1\ShopLab.AssemblyInfoInputs.cache
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\obj\Debug\netcoreapp3.1\ShopLab.AssemblyInfo.cs
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\obj\Debug\netcoreapp3.1\ShopLab.dll
+C:\Users\Xxkhi\SoftwareDesign\ShopLab\obj\Debug\netcoreapp3.1\ShopLab.pdb
