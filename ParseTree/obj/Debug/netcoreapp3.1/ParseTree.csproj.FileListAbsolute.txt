@@ -1,0 +1,11 @@
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\bin\Debug\netcoreapp3.1\ParseTree.exe
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\bin\Debug\netcoreapp3.1\ParseTree.deps.json
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\bin\Debug\netcoreapp3.1\ParseTree.runtimeconfig.json
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\bin\Debug\netcoreapp3.1\ParseTree.runtimeconfig.dev.json
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\bin\Debug\netcoreapp3.1\ParseTree.dll
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\bin\Debug\netcoreapp3.1\ParseTree.pdb
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\obj\Debug\netcoreapp3.1\ParseTree.csprojAssemblyReference.cache
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\obj\Debug\netcoreapp3.1\ParseTree.AssemblyInfoInputs.cache
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\obj\Debug\netcoreapp3.1\ParseTree.AssemblyInfo.cs
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\obj\Debug\netcoreapp3.1\ParseTree.dll
+C:\Users\Xxkhi\SoftwareDesign\ParseTree\obj\Debug\netcoreapp3.1\ParseTree.pdb
