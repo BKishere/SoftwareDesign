@@ -13,18 +13,34 @@ namespace TwoDArray
     {
         static void Main(string[] args)
         {
-            // create and fill a 2 x 3 array of integers
-            ITwoDArray<int> array = new TwoDArrayGeneric<int>(2, 3);
-            array.Set(0, 0, 9); array.Set(0, 1, 4); array.Set(0, 2, 1);
-            array.Set(1, 0, 2); array.Set(1, 1, 5); array.Set(1, 2, 3);
+            // create and fill a 3 x 3 array of String
+            ITwoDArray<String> name_array = new TwoDArrayGeneric<String>(2, 3);
 
-            // display the array in row major order
-            ITwoDIterator<int> iter = array.CreateRowMajorIterator();
-            while (!iter.IsDone())
-            {
-                Console.Write(iter.Current() + " ");
-                iter.Next();
+            name_array.Set(0, 0,"Sarah");
+            name_array.Set(0, 1, null);
+            name_array.Set(0, 2, "Yixin");
+            name_array.Set(1, 0, "Tom");
+            name_array.Set(1, 1, null);
+            name_array.Set(1, 2, "Faizal");
+            
+ 
+            ITwoDIterator<String> iter_major = name_array.CreateRowMajorIterator();
+            ITwoDIterator<String> iter_reverse = name_array.CreateReverseIterator();
+
+            Console.WriteLine("Reverse transverse Iteration:");
+            while(!iter_reverse.IsDone()){
+                
+                Console.Write(iter_reverse.Current()+" ");
+                iter_reverse.Next();
             }
+           
+            Console.WriteLine("\n");
+            Console.WriteLine("Row major iteration: ");
+            while(!iter_major.IsDone()){
+                Console.Write(iter_major.Current()+" ");
+                iter_major.Next();
+            }
+
             Console.WriteLine();
             Console.ReadLine();
         }

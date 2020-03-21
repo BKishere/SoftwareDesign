@@ -40,6 +40,12 @@ namespace TwoDArray
             return new TwoDRowMajorIteratorGeneric<T>(this);
         }
 
+        //get the reverse Iterator that transverse array in the column major order
+
+        public ITwoDIterator<T> CreateReverseIterator(){
+            return new TwoDReverseIteratorGeneric<T>(this);
+        }
+
         // get the number of columns in the array
         public int Columns()
         {

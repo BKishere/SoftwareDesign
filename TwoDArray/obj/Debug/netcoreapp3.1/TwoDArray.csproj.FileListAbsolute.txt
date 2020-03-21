@@ -1,0 +1,11 @@
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArray.csprojAssemblyReference.cache
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArray.AssemblyInfoInputs.cache
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArray.AssemblyInfo.cs
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArray.exe
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArray.deps.json
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArray.runtimeconfig.json
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArray.runtimeconfig.dev.json
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArray.dll
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArray.pdb
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArray.dll
+C:\Users\Xxkhi\SoftwareDesign\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArray.pdb
