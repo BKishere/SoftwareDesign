@@ -27,14 +27,22 @@ namespace ICT2106.VendingMachineOO
             VM.Amount -= cost;
 
             // move to the next state
-            if (VM.Amount > 0.0M)
+            if (VM.Amount == 0.0M)
+            {
+                // no change required; go back to idle
+                VM.EnterState(new IdleVendingMachineState(VM));
+               
+            }
+            else if(VM.vmBalance >= VM.Amount)
             {
                 // need to give change
                 VM.EnterState(new MakeChangeVendingMachineState(VM));
             }
-            else
-            {
-                // no change required; go back to idle
+            else{
+                VM.Display("not enough changes");
+
+                VM.displayMessage = "Not Enough Change";
+
                 VM.EnterState(new IdleVendingMachineState(VM));
             }
         }

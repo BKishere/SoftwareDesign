@@ -9,6 +9,8 @@ using System;
 
 namespace ICT2106.VendingMachineOO
 {
+   
+
     class VendingMachine
     {
         // the current state of the machine
@@ -17,11 +19,19 @@ namespace ICT2106.VendingMachineOO
         // the amount of money inserted by the user
         public decimal Amount { get; set; }
 
+        public decimal vmBalance{ get; set;}
+
+        public string displayMessage{get; set;}
+
         // constructor
-        public VendingMachine()
+        public VendingMachine(decimal balance)
         {
             // start in the idle state with no money inserted
             CurrentState = new IdleVendingMachineState(this);
+
+            //Initial balance 
+            vmBalance = balance;
+
         }
 
         // display a message

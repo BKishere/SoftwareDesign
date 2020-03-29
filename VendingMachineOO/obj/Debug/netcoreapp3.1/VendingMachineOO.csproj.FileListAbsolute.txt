@@ -1,0 +1,11 @@
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp3.1\VendingMachineOO.csprojAssemblyReference.cache
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp3.1\VendingMachineOO.AssemblyInfoInputs.cache
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp3.1\VendingMachineOO.AssemblyInfo.cs
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp3.1\VendingMachineOO.exe
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp3.1\VendingMachineOO.deps.json
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp3.1\VendingMachineOO.runtimeconfig.json
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp3.1\VendingMachineOO.runtimeconfig.dev.json
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp3.1\VendingMachineOO.dll
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp3.1\VendingMachineOO.pdb
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp3.1\VendingMachineOO.dll
+C:\Users\Xxkhi\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp3.1\VendingMachineOO.pdb

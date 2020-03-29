@@ -20,6 +20,11 @@ namespace ICT2106.VendingMachineOO
         {
             // display a message and reset the amount of money in the machine
             VM.Display("Returning change of $" + VM.Amount);
+            
+            //Update VM balance
+            VM.vmBalance = VM.vmBalance - VM.Amount;
+            VM.Display("VM balance left: $"+VM.vmBalance);
+            
             VM.Amount = 0.0M;
 
             // return to the idle state
